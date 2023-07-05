@@ -1,8 +1,8 @@
-K-Means Clustering on Penguins Dataset
+# K-Means Clustering on Penguins Dataset
 
-Emil.io 2023
+### Emil.io 2023
 
-This repository contains code for implementing K-Means clustering on the penguins dataset. The penguins dataset is a collection of measurements of various features of different penguin species, such as body mass, bill depth, and flipper length. The goal of the K-Means clustering algorithm is to group similar penguin species together into distinct clusters based on their measured features.
+## This repository contains code for implementing K-Means clustering on the penguins dataset. The penguins dataset is a collection of measurements of various features of different penguin species, such as body mass, bill depth, and flipper length. The goal of the K-Means clustering algorithm is to group similar penguin species together into distinct clusters based on their measured features.
 Getting Started
 
 To get started with the code, you will need to have Python 3 and some required packages installed on your computer. You can install the required packages using the following command:
