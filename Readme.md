@@ -3,18 +3,20 @@
 ### Emil.io 2023
 
 ## This repository contains code for implementing K-Means clustering on the penguins dataset. The penguins dataset is a collection of measurements of various features of different penguin species, such as body mass, bill depth, and flipper length. The goal of the K-Means clustering algorithm is to group similar penguin species together into distinct clusters based on their measured features.
-Getting Started
+
+### Getting Started
 
 To get started with the code, you will need to have Python 3 and some required packages installed on your computer. You can install the required packages using the following command:
 
 pip install -r requirements.txt
 
-Dataset
+### Dataset
 
 The penguins dataset used in this repository is the "Palmer Penguins" dataset, which is a relatively small dataset consisting of 344 penguin observations with 8 variables.
 
 The dataset can be downloaded from the following link: https://github.com/allisonhorst/palmerpenguins
-Code
+
+### Code
 
 The code for performing K-Means clustering on the penguins dataset is located in the "kmeans_penguins.py" file. This file contains the following functions:
 
@@ -25,7 +27,7 @@ The code for performing K-Means clustering on the penguins dataset is located in
     calculate_tss: Calculates the total sum of squares for a given set of clusters and centroids.
     elbow_method: Uses the elbow method to determine the optimal number of clusters for the data.
 
-Usage
+### Usage
 
 To use the code, simply run the "kmeans_penguins.py" file. The file contains a main function that loads the penguins dataset, performs K-Means clustering on the data, and outputs the resulting clusters and centroids.
 
