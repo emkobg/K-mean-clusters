@@ -2,7 +2,7 @@
 
 ### Emil.io 2023
 
-## This repository contains code for implementing K-Means clustering on the penguins dataset. The penguins dataset is a collection of measurements of various features of different penguin species, such as body mass, bill depth, and flipper length. The goal of the K-Means clustering algorithm is to group similar penguin species together into distinct clusters based on their measured features.
+### This repository contains code for implementing K-Means clustering on the penguins dataset. The penguins dataset is a collection of measurements of various features of different penguin species, such as body mass, bill depth, and flipper length. The goal of the K-Means clustering algorithm is to group similar penguin species together into distinct clusters based on their measured features.
 
 ### Getting Started
 
